@@ -1,0 +1,1 @@
+Deepfake Video Detection is a technology that identifies manipulated videos created using AI techniques like deep learning and GANs. It detects inconsistencies in facial features, movements, and audio to distinguish fake content, helping combat misinformation and ensure media authenticity.
